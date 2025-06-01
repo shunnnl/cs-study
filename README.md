@@ -6,7 +6,7 @@
 - 학습내용 발표는 자신이 이해한 내용을 가르치듯이 설명
 - 불참시 벌금 2,000원
 
-## 📖주제
+## 📖 주제
 ### 📌 Computer Science
 
 #### Computer Architecture
