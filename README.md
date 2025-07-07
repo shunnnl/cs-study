@@ -34,13 +34,11 @@
 ...
 ```
 
+## 📖 Contents
+* [Computer Architecture](https://github.com/devSquad-study/2023-CS-Study/blob/main/Algorithm/README.md)
+
 ## 🏃‍♂️스터디 현황
 |주차|날짜|분류명|주제|스터디원|
 |:-:|:-:|:-:|:-:|:-:|
 |1|2025/07/08|Computer Architecture|ARM 프로세서|하시윤|
 |1|2025/07/08|Computer Architecture|캐시 메모리|김동욱|
-
-
-## 📖 Contents
-* [Computer Architecture](https://github.com/devSquad-study/2023-CS-Study/blob/main/Algorithm/README.md)
-
