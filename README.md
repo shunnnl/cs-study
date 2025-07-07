@@ -35,7 +35,7 @@
 ```
 
 ## 📖 Contents
-* [Computer Architecture](https://github.com/devSquad-study/2023-CS-Study/blob/main/Algorithm/README.md)
+* [Computer Architecture](https://github.com/shunnnl/cs-study/blob/main/computer-architecture/README.md)
 
 ## 🏃‍♂️스터디 현황
 |주차|날짜|분류명|주제|스터디원|
