@@ -53,6 +53,11 @@ Computer Architecture
 ### 📌 Computer Science
 - 캐시 메모리
 - ARM 프로세서
+  
+|Computer Science|
+|:-:|
+|캐시 메모리|
+|ARM 프로세서|
 
 
 ### 📌 Web
