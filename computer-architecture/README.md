@@ -8,4 +8,4 @@
 * [x] [캐시 메모리](./computer-architecture/cache_memory.md)
 * [x] [고정 소수점 & 부동 소수점](./computer-architecture/fixed_vs_floating_point.md)
 * [x] [패리티 비트 & 해밍 코드](./computer-architecture/parity_and_hamming.md)
-* [x] [ARM 프로세서](./computer-architecture/arm-processor.md)
+* [x] [ARM 프로세서](https://github.com/shunnnl/cs-study/blob/main/computer-architecture/arm-processor.md)
