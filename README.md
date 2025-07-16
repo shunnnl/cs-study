@@ -15,7 +15,7 @@
 
 - /[분류명]/[주제].md
 - ex) computer-architecture/컴퓨터 구조 기초.md
-- push 시 'docs: [날짜_이름] [분류명] [주제 파일명] 제출'
+- push 시 'docs: [제출날짜_이름] [분류명] [파일명] [제출 or 수정]'
 - ex) 'docs: [250601_하시윤] [Computer Architecture] 컴퓨터 구조 기초.md 제출'
 
 ## 🐼 파일 양식
