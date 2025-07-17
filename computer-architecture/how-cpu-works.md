@@ -2,7 +2,7 @@
 > 2025-07-16
 >
 > **🗂 분류**   
-> Computer Architecture  
+> Computer Architecture   
 >
 > **🔗 노션 링크**  
 > [노션에서 보기](https://important-marquess-d42.notion.site/CPU-22aa654e658a8098b1a3dfa4206fdc4f?source=copy_link)
