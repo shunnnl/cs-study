@@ -3,7 +3,7 @@
 ## 목차
 
 * [ ] [Array & ArrayList & LinkedList]()
-* [ ] [스택(Stack) & 큐(Queue)]()
+* [x] [스택(Stack) & 큐(Queue)](https://important-marquess-d42.notion.site/Stack-Queue-233a654e658a80faac02d12ff2aa6e89?source=copy_link)
 * [ ] [힙(Heap)]()
 * [ ] [트리(Tree)]()
 * [ ] [이진탐색트리(Binary Search Tree)]()
