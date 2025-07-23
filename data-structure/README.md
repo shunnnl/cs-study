@@ -7,6 +7,6 @@
 * [ ] [힙(Heap)]()
 * [ ] [트리(Tree)]()
 * [ ] [이진탐색트리(Binary Search Tree)]()
-* [ ] [해시(Hash)]()
+* [X] [해시(Hash)](https://github.com/shunnnl/cs-study/blob/main/data-structure/hash.md)
 * [ ] [트라이(Trie)]()
 * [X] [B-Tree & B+Tree](https://github.com/shunnnl/cs-study/blob/main/data-structure/b-tree-bplus-tree.md)
