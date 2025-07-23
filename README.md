@@ -46,4 +46,5 @@
 |1|2025/07/11|Computer Architecture|컴퓨터의 구성|하시윤|
 |2|2025/07/22|Data Structure|스택(Stack) & 큐(Queue)|김동욱|
 |2|2025/07/22|Data Structure|B-Tree & B+Tree|하시윤|
-
+|2|2025/07/25|Data Structure|트라이(Trie)|김동욱|
+|2|2025/07/25|Data Structure|해시(Hash)|하시윤|
