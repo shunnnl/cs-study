@@ -8,5 +8,5 @@
 * [ ] [트리(Tree)]()
 * [ ] [이진탐색트리(Binary Search Tree)]()
 * [X] [해시(Hash)](https://github.com/shunnnl/cs-study/blob/main/data-structure/hash.md)
-* [ ] [트라이(Trie)]()
+* [x] [트라이(Trie)](https://important-marquess-d42.notion.site/Trie-239a654e658a805382e4c6e286efc9f3?source=copy_link)
 * [X] [B-Tree & B+Tree](https://github.com/shunnnl/cs-study/blob/main/data-structure/b-tree-bplus-tree.md)
