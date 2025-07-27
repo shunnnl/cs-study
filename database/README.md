@@ -12,4 +12,4 @@
 * [ ] [트랜잭션(Transaction)]()
 * [ ] [트랜잭션 격리 수준(Transaction Isolation Level)]()
 * [ ] [저장 프로시저(Stored PROCEDURE)]()
-* [ ] [레디스(Redis)]()
+* [x] [레디스(Redis)]()
