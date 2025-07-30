@@ -50,3 +50,5 @@
 |2|2025/07/25|Data Structure|해시(Hash)|하시윤|
 |3|2025/07/29|Database|레디스(Redis)|김동욱|
 |3|2025/07/29|Database|SQL vs NoSQL|하시윤|
+|3|2025/08/01|Database|SQL Injection|김동욱|
+|3|2025/08/01|Database|인덱스(INDEX)|하시윤|
