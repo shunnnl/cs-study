@@ -10,6 +10,6 @@
 * [ ] [이상(Anomaly)]()
 * [x] [인덱스(INDEX)](https://github.com/shunnnl/cs-study/blob/main/database/index.md)
 * [ ] [트랜잭션(Transaction)]()
-* [ ] [트랜잭션 격리 수준(Transaction Isolation Level)]()
+* [x] [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/shunnnl/cs-study/blob/main/database/transaction-isolation-level.md)
 * [ ] [저장 프로시저(Stored PROCEDURE)]()
 * [x] [레디스(Redis)](https://github.com/shunnnl/cs-study/blob/main/database/redis.md)
