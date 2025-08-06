@@ -54,3 +54,5 @@
 |3|2025/08/01|Database|인덱스(INDEX)|하시윤|
 |4|2025/08/05|Database|트랜잭션(Transaction)|김동욱|
 |4|2025/08/05|Database|트랜잭션 격리 수준(Transaction Isolation Level)|하시윤|
+|4|2025/08/08|Web|웹 서버와 WAS의 차이점|김동욱|
+|4|2025/08/08|Web|CSRF & XSS|하시윤|
