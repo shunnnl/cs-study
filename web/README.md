@@ -14,7 +14,7 @@
 * [ ] [로그 레벨]()
 * [ ] [CSR & SSR]()
 * [ ] [네이티브 앱 & 웹 앱 & 하이브리드 앱]()
-* [ ] [CSRF & XSS]()
+* [X] [CSRF & XSS](https://github.com/shunnnl/cs-study/blob/main/web/CSRF%20%26%20XSS.md)
 * [ ] [[Spring] Bean Scope]()
 * [ ] [[Spring] MVC Framework]()
 * [ ] [[Spring Boot] SpringApplication]()
