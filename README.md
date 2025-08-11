@@ -36,7 +36,9 @@
 
 ## 📖 Contents
 * [Computer Architecture](https://github.com/shunnnl/cs-study/blob/main/computer-architecture/README.md)
-
+* [Data Structure](https://github.com/shunnnl/cs-study/blob/main/data-structure/README.md)
+* [Database](https://github.com/shunnnl/cs-study/blob/main/database/README.md)
+* [Web](https://github.com/shunnnl/cs-study/blob/main/web/README.md)
 ## 🏃‍♂️스터디 현황
 |주차|날짜|분류명|주제|스터디원|
 |:-:|:-:|:-:|:-:|:-:|
