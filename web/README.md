@@ -1,0 +1,27 @@
+# Web
+
+## 목차
+
+* [ ] [브라우저 동작 방법]()
+* [ ] [쿠키(Cookie) & 세션(Session)]()
+* [ ] [HTTP Request Methods]()
+* [ ] [HTTP Status Code]()
+* [ ] [REST API]()
+* [ ] [웹 서버와 WAS의 차이점]()
+* [ ] [OAuth]()
+* [ ] [JWT(JSON Web Token)]()
+* [ ] [Authentication and Authorization]()
+* [ ] [로그 레벨]()
+* [ ] [CSR & SSR]()
+* [ ] [네이티브 앱 & 웹 앱 & 하이브리드 앱]()
+* [ ] [CSRF & XSS]()
+* [ ] [[Spring] Bean Scope]()
+* [ ] [[Spring] MVC Framework]()
+* [ ] [[Spring Boot] SpringApplication]()
+* [ ] [[Spring Boot] Test Code]()
+* [ ] [[JPA] JPA]()
+* [ ] [[Spring Data JPA] 더티 체킹(Dirty Checking)]()
+* [ ] [[Spring Security] 인증 및 권한 부여]()
+* [ ] [[AWS] Spring Boot 배포 스크립트 생성]()
+* [ ] [[Travis CI] 프로젝트 연동하기]()
+* [ ] [[DevOps] 시스템 규모 확장]()
