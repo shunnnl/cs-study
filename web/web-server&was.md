@@ -116,7 +116,6 @@
  
 
 <aside>
-1️⃣
 
 1. Nginx
     - 클라이언트 HTTP 요청 수신
@@ -124,9 +123,9 @@
 </aside>
 
 <aside>
-2️⃣
 
-WAS(Tomcat) 커넥터
+
+2. WAS(Tomcat) 커넥터
 
 - 요청을 NIO Connector가 받아 **요청 큐**에 적재
 - 워커 스레드 풀에서 스레드 하나를 할당
@@ -140,17 +139,16 @@ WAS(Tomcat) 커넥터
 </aside>
 
 <aside>
-3️⃣
 
-1. 필터 체인(Filter Chain)
+3. 필터 체인(Filter Chain)
     - 공통 전처리 수행 (인증, 인가, CORS, 로깅, 캐시 헤더 설정 등)
     
 </aside>
 
 <aside>
-4️⃣
 
-1. **디스패처 서블릿(DispatcherServlet)** - Spring MVC
+
+4. **디스패처 서블릿(DispatcherServlet)** - Spring MVC
     - URL → 컨트롤러 메서드 매핑
     - 요청 데이터(@PathVariable, @RequestParam, @RequestBody) 바인딩
     - @Valid 유효성 검증
@@ -158,33 +156,33 @@ WAS(Tomcat) 커넥터
 </aside>
 
 <aside>
-5️⃣
 
-1. **비즈니스 로직(Service)**
+
+5. **비즈니스 로직(Service)**
     - 권한 체크, 규칙 처리, 외부 API 호출, 데이터 가공 등
 </aside>
 
 <aside>
-6️⃣
 
-1. **데이터 접근(Repository)**
+
+6. **데이터 접근(Repository)**
     
     (HikariCP 커넥션 풀 → 트랜잭션 → SQL 실행 → 결과 매핑 → 커넥션 반납)
     
 </aside>
 
 <aside>
-7️⃣
 
-1. **응답 생성**
+
+7. **응답 생성**
     - SSR: HTML 생성(Thymeleaf/JSP)
     - API: 객체 → JSON 변환
 </aside>
 
 <aside>
-8️⃣
 
-1. **응답 반환**
+
+8. **응답 반환**
 </aside>
 
 ## 응답 반환 경로
