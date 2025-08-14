@@ -6,7 +6,7 @@
 * [ ] [쿠키(Cookie) & 세션(Session)]()
 * [ ] [HTTP Request Methods]()
 * [ ] [HTTP Status Code]()
-* [ ] [REST API]()
+* [X] [REST API](https://github.com/shunnnl/cs-study/blob/main/web/rest-api.md)
 * [X] [웹 서버와 WAS의 차이점](https://github.com/shunnnl/cs-study/blob/main/web/web-server%26was.md)
 * [ ] [OAuth]()
 * [ ] [JWT(JSON Web Token)]()
