@@ -3,7 +3,7 @@
 ## 목차
 
 * [ ] [브라우저 동작 방법]()
-* [ ] [쿠키(Cookie) & 세션(Session)]()
+* [x] [쿠키(Cookie) & 세션(Session)](https://github.com/shunnnl/cs-study/blob/main/web/cookie%26session.md)
 * [ ] [HTTP Request Methods]()
 * [ ] [HTTP Status Code]()
 * [X] [REST API](https://github.com/shunnnl/cs-study/blob/main/web/rest-api.md)
