@@ -58,3 +58,5 @@
 |4|2025/08/05|Database|트랜잭션 격리 수준(Transaction Isolation Level)|하시윤|
 |4|2025/08/08|Web|웹 서버와 WAS의 차이점|김동욱|
 |4|2025/08/08|Web|CSRF & XSS|하시윤|
+|5|2025/08/15|Web|쿠키(Cookie) & 세션(Session)|김동욱|
+|5|2025/08/15|Web|REST API|하시윤|
