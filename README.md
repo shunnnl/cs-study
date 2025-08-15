@@ -61,4 +61,4 @@
 |5|2025/08/15|Web|쿠키(Cookie) & 세션(Session)|김동욱|
 |5|2025/08/15|Web|REST API|하시윤|
 |6|2025/08/19|Web|[Spring] MVC Framework|김동욱|
-|6|2025/08/19|Web|Spring Security - 인증 및 권한 부여|하시윤|
+|6|2025/08/19|Web|[Spring Security] 인증 및 권한 부여|하시윤|
