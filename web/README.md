@@ -21,7 +21,7 @@
 * [ ] [[Spring Boot] Test Code]()
 * [ ] [[JPA] JPA]()
 * [ ] [[Spring Data JPA] 더티 체킹(Dirty Checking)]()
-* [ ] [[Spring Security] 인증 및 권한 부여]()
+* [x] [[Spring Security] 인증 및 권한 부여](https://github.com/shunnnl/cs-study/blob/main/web/authentication-authorization.md)
 * [ ] [[AWS] Spring Boot 배포 스크립트 생성]()
 * [ ] [[Travis CI] 프로젝트 연동하기]()
 * [ ] [[DevOps] 시스템 규모 확장]()
