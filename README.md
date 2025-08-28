@@ -62,5 +62,5 @@
 |5|2025/08/15|Web|REST API|하시윤|
 |6|2025/08/19|Web|[Spring] MVC Framework|김동욱|
 |6|2025/08/19|Web|[Spring Security] 인증 및 권한 부여|하시윤|
-|7|2025/08/29|Web|[[Spring Boot] Test Code|김동욱|
+|7|2025/08/29|Web|[Spring Boot] Test Code|김동욱|
 |7|2025/08/29|Web|JPA|하시윤|
