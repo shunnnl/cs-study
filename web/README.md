@@ -19,7 +19,7 @@
 * [x] [[Spring] MVC Framework](https://github.com/shunnnl/cs-study/blob/main/web/mvc-framework.md)
 * [ ] [[Spring Boot] SpringApplication]()
 * [ ] [[Spring Boot] Test Code]()
-* [ ] [[JPA] JPA]()
+* [ ] [JPA]()
 * [ ] [[Spring Data JPA] 더티 체킹(Dirty Checking)]()
 * [x] [[Spring Security] 인증 및 권한 부여](https://github.com/shunnnl/cs-study/blob/main/web/authentication-authorization.md)
 * [ ] [[AWS] Spring Boot 배포 스크립트 생성]()
