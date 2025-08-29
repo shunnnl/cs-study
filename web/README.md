@@ -18,7 +18,7 @@
 * [ ] [[Spring] Bean Scope]()
 * [x] [[Spring] MVC Framework](https://github.com/shunnnl/cs-study/blob/main/web/mvc-framework.md)
 * [ ] [[Spring Boot] SpringApplication]()
-* [ ] [[Spring Boot] Test Code]()
+* [x] [[Spring Boot] Test Code](https://github.com/shunnnl/cs-study/blob/main/web/test-code.md)
 * [x] [JPA](https://github.com/shunnnl/cs-study/blob/main/web/jpa.md)
 * [ ] [[Spring Data JPA] 더티 체킹(Dirty Checking)]()
 * [x] [[Spring Security] 인증 및 권한 부여](https://github.com/shunnnl/cs-study/blob/main/web/authentication-authorization.md)
