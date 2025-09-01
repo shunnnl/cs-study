@@ -64,3 +64,5 @@
 |6|2025/08/19|Web|[Spring Security] 인증 및 권한 부여|하시윤|
 |7|2025/08/29|Web|[Spring Boot] Test Code|김동욱|
 |7|2025/08/29|Web|JPA|하시윤|
+|8|2025/09/02|Network|TLS/SSL handshake|김동욱|
+|8|2025/00/02|Network|로드 밸런싱(Load Balancing)|하시윤|
