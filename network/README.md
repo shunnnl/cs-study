@@ -8,7 +8,7 @@
 * [ ] [UDP]()
 * [ ] [대칭키 & 공개키]()
 * [ ] [HTTP & HTTPS]()
-* [ ] [TLS/SSL Handshake]()
+* [x] [TLS/SSL Handshake](https://github.com/shunnnl/cs-study/blob/main/network/tls_ssl-handshake.md)
 * [x] [로드 밸런싱(Load Balancing)](https://github.com/shunnnl/cs-study/blob/main/network/load-balancing.md)
 * [ ] [Blocking, Non-Blocking & Synchronous, Asynchronous]()
 * [ ] [Blocking & Non-Blocking I/O]()
