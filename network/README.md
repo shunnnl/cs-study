@@ -10,5 +10,5 @@
 * [ ] [HTTP & HTTPS]()
 * [x] [TLS/SSL Handshake](https://github.com/shunnnl/cs-study/blob/main/network/tls_ssl-handshake.md)
 * [x] [로드 밸런싱(Load Balancing)](https://github.com/shunnnl/cs-study/blob/main/network/load-balancing.md)
-* [ ] [Blocking, Non-Blocking & Synchronous, Asynchronous]()
+* [x] [Blocking, Non-Blocking & Synchronous, Asynchronous](https://github.com/shunnnl/cs-study/blob/main/network/blocking-vs-nonblocking-vs-sync-vs-async.md)
 * [ ] [Blocking & Non-Blocking I/O]()
