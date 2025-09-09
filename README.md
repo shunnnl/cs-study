@@ -66,7 +66,7 @@
 |7|2025/08/29|Web|[Spring Boot] Test Code|김동욱|
 |7|2025/08/29|Web|JPA|하시윤|
 |8|2025/09/02|Network|TLS/SSL handshake|김동욱|
-|8|2025/00/02|Network|로드 밸런싱(Load Balancing)|하시윤|
+|8|2025/09/02|Network|로드 밸런싱(Load Balancing)|하시윤|
 |9|2025/09/09|Network|TCP/IP 흐름제어 & 혼잡제어|김동욱|
 |9|2025/09/09|Network|Blocking,Non-blocking & Synchronous,Asynchronous|하시윤|
 
