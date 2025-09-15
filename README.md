@@ -40,6 +40,8 @@
 * [Database](https://github.com/shunnnl/cs-study/blob/main/database/README.md)
 * [Web](https://github.com/shunnnl/cs-study/blob/main/web/README.md)
 * [Network](https://github.com/shunnnl/cs-study/tree/main/network/README.md)
+* [Operating System](https://github.com/shunnnl/cs-study/blob/main/operating-system/README.md)
+  
 ## 🏃‍♂️스터디 현황
 |주차|날짜|분류명|주제|스터디원|
 |:-:|:-:|:-:|:-:|:-:|
