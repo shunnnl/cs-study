@@ -8,7 +8,7 @@
 * [ ] [인터럽트(Interrupt)]()  
 * [ ] [시스템 콜(System Call)]()  
 * [ ] [PCB와 Context Switching]()  
-* [ ] [IPC(Inter Process Communication)]()  
+* [x] [IPC(Inter Process Communication)](https://github.com/shunnnl/cs-study/blob/main/operating-system/ipc.md)  
 * [ ] [CPU 스케줄링]()  
 * [x] [데드락(DeadLock)](https://github.com/shunnnl/cs-study/blob/main/operating-system/deadlock.md)  
 * [ ] [Race Condition]()  
